@@ -1,6 +1,6 @@
 # Overview
 
-This is the foundation of a student registration system utilizine a SQL database. The program proviedes a menu for the user to interact with the database. There are eight options for the user:
+This is the foundation of a student registration system utilize a SQL database. The program proviedes a menu for the user to interact with the database. There are eight options for the user:
 * 1 - Display Students
 * 2 - Display Classes
 * 3 - Enroll in the School/University
